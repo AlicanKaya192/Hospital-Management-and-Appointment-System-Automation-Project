@@ -66,7 +66,14 @@ All tables implement national ID uniqueness checks using `INSTEAD OF INSERT` tri
 
 ## 🖥 Application Screenshots
 
-**
+<img width="586" height="357" alt="Hospital1" src="https://github.com/user-attachments/assets/6249bd2c-2134-4f7c-9fec-2a8708c8c5e5" />
+<img width="428" height="336" alt="Hospital2" src="https://github.com/user-attachments/assets/9ca7c796-0330-407e-b14a-401c19942847" />
+<img width="1565" height="544" alt="Hospital3" src="https://github.com/user-attachments/assets/6a054221-8917-42e6-9348-63b0a76434ff" />
+<img width="432" height="335" alt="Hospital4" src="https://github.com/user-attachments/assets/2b2edc0c-58e6-40b7-bfe1-2a6a32214de2" />
+<img width="1412" height="678" alt="Hospital5" src="https://github.com/user-attachments/assets/ad8c2ec8-b7fa-4b39-9a1e-ce25d19cbd33" />
+<img width="421" height="337" alt="Hospital6" src="https://github.com/user-attachments/assets/7b7cb6f6-460f-4d96-a4be-41466f9e5bf7" />
+<img width="1919" height="1030" alt="Hospital7" src="https://github.com/user-attachments/assets/75b7e69f-2d14-4f07-978d-34b8a221ded6" />
+<img width="440" height="372" alt="Hospital8" src="https://github.com/user-attachments/assets/be48ba7c-9acb-4226-9340-892e915cfe24" />
 
 ---
 
