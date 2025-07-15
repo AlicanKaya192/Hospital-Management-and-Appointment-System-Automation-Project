@@ -66,7 +66,7 @@ All tables implement national ID uniqueness checks using `INSTEAD OF INSERT` tri
 
 ## 🖥 Application Screenshots
 
-*(Add project screenshots in this section.)*
+**
 
 ---
 
